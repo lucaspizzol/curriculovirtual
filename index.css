@@ -197,7 +197,7 @@ span{
 }
 
 .experiencias-img img {
-    position: relativ;
+    position: relative;
     width: 550px;
     box-shadow: 0 0 25px rgb(48, 133, 40),
                 0 0 50px rgb(48, 133, 40);
